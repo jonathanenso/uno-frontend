@@ -1,0 +1,15 @@
+.dataTables_wrapper .rdt_Table{
+    font-size: 14px;
+    font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
+}
+.dataTables_wrapper .rdt_TableCol_Sortable{
+    font-size: 14px;
+    font-weight: bold;
+}
+.dataTables_wrapper .rdt_ExpanderRow{
+    font-size: 14px;
+}
+.dataTables_wrapper .gnahTY{
+    display: flex;
+}
+
